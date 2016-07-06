@@ -12,4 +12,4 @@ mkf('./Cache/Admin/ceshi',false);
 mkf('./Cache/Admin/test/test.txt','www.i5code.com');
 ```
 
-[官网]（http://www.i5code.com/shows-6-84.shtml）
+[官网](http://www.i5code.com/shows-6-84.shtml）
