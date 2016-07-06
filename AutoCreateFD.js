@@ -2,9 +2,6 @@ const fs = require('fs');
 const path=require('path');
 const os=require('os');
 const platform=os.platform();
-var MyPath="./Cache/Admin/test/test.txt";
-var FileData="dddd";
-mkf(MyPath,FileData);
 function mkf(MyPath,FileData){
 	if(platform=='win32'){
 		MyPath=MyPath.replace(/\//g,"\\");
